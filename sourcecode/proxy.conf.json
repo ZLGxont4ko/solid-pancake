@@ -1,0 +1,18 @@
+{
+    "/secure": {
+        "target": "http://localhost/mtdb/server",
+        "secure": false
+    },
+    "/__clockwork": {
+        "target": "http://localhost/mtdb/server/public",
+        "secure": false
+    },
+    "/storage": {
+        "target": "http://localhost/mtdb/server",
+        "secure": false
+    },
+    "/client": {
+        "target": "http://localhost/mtdb/server",
+        "secure": false
+    }
+}
